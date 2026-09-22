@@ -1,0 +1,12 @@
+.bigMenu{
+width: 100vw; /* ширина во весь экран */
+  height: 100vh; /* высота во весь экран */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),  url('https://novikov-cafe.uz/d/novikov_cafe_interior10189_resized_266639.jpg'); /* путь к вашей картинке */
+  background-repeat: no-repeat; /* отменяем повторение картинки */
+  background-position: center; /* центрируем изображение */
+  background-size: cover; 
+}
+.bigMenu a{
+    color: white;
+    text-transform: uppercase;
+}
